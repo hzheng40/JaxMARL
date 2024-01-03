@@ -8,4 +8,6 @@ from .simple_speaker_listener import SimpleSpeakerListenerMPE
 from .simple_adversary import SimpleAdversaryMPE
 from .simple_reference import SimpleReferenceMPE
 from .simple_facmac import SimpleFacmacMPE, SimpleFacmacMPE3a, SimpleFacmacMPE6a, SimpleFacmacMPE9a
+from .simple_competitive import SimpleCompetitiveMPE
+from .simple_collaborative import SimpleCollaborativeMPE
 from .mpe_visualizer import MPEVisualizer
